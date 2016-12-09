@@ -2,4 +2,6 @@ const Footer = styled.div`
   color: red
 `;
 
-module.exports = Footer;
+module.exports = {
+  Footer
+};
