@@ -1,0 +1,8 @@
+{
+  "name": "NavigationMenu",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/PPPatt/NavigationMenu.git",
+  "author": "Philipp Patt",
+  "license": "MIT"
+}
